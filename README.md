@@ -1,3 +1,22 @@
+<p align="left">
+  <a href="https://github.com/Seeker38">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Seeker38" />
+  </a>
+  <a href="https://github.com/Seeker38">
+    <img height="20" src="https://img.shields.io/github/followers/Seeker38?label=follow&logo=github&style=flat" />
+  </a>
+<!--   <a href="http://qiita.com/Seeker38">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Seeker38/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Seeker38">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Seeker38/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/Seeker38">
+    <img height="20" src="https://badgen.org/img/zenn/Seeker38/articles?style=plastic" />
+  </a> -->
+</p>
+
+
 # 💫 About Me:
 ## 👋 About Me<br><br>🎓 I’m a 4th-year student specializing in **Data Science**  <br>🔭 I’m currently working on NLP projects and exploring the capabilities of large language models (LLMs)  <br>👯 I’m looking to collaborate on open-source projects in NLP, deep learning, and model deployment  <br>🤝 I’m looking for help with scaling LLM applications and optimizing inference performance  <br>🌱 I’m currently learning advanced natural language processing, prompt engineering, and distributed training  <br>💬 Ask me about transformers, tokenization, fine-tuning models, or cool NLP hacks  <br>⚡ Fun fact: I enjoy pushing LLMs to do things they weren't exactly designed for 🤓
 
