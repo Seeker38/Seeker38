@@ -18,7 +18,13 @@
 
 
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 I’m a 4th-year student specializing in **Data Science**  <br>🔭 I’m currently working on NLP projects and exploring the capabilities of large language models (LLMs)  <br>👯 I’m looking to collaborate on open-source projects in NLP, deep learning, and model deployment  <br>🤝 I’m looking for help with scaling LLM applications and optimizing inference performance  <br>🌱 I’m currently learning advanced natural language processing, prompt engineering, and distributed training  <br>💬 Ask me about transformers, tokenization, fine-tuning models, or cool NLP hacks  <br>⚡ Fun fact: I enjoy pushing LLMs to do things they weren't exactly designed for 🤓
+## 👋 About Me<br><br>🎓 I’m a 4th-year student specializing in **Data Science**  <br>
+🔭 I’m currently working on NLP projects and exploring the capabilities of large language models (LLMs)  <br>
+🤝 I’m looking to collaborate on open-source projects in NLP, deep learning, and model deployment  <br>
+💬 Ask me about transformers, tokenization, fine-tuning models, or cool NLP hacks  <br>
+🌱 I’m currently learning advanced natural language processing, prompt engineering, and distributed training  <br>
+⚡ Fun fact: I enjoy pushing LLMs to do things they weren't exactly designed for 🤓
+<!--  🤝 I’m looking for help with scaling LLM applications and optimizing inference performance  <br> -->
 
 
 ## 🌐 Socials:
