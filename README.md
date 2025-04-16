@@ -23,10 +23,18 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seeker3888@gmail.com) 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Seeker38)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
+
+# ⚙️ GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seeker38&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seeker38&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seeker38&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seeker38&theme=2077&utcOffset=8)
+
+# 📊 GitHub Details:
 ![](https://github-readme-stats.vercel.app/api?username=Seeker38&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Seeker38&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seeker38&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
