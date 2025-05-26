@@ -19,7 +19,7 @@
 
 # 💫 About Me:
 ## 👋 About Me<br><br>🎓 I’m a 4th-year student specializing in **Data Science**  <br>
-🔭 I’m currently focusing on NLP projects and exploring the capabilities of large language models (LLMs)  <br>
+🔭 I’m currently focusing on NLP projects and exploring the capabilities of LLMs  <br>
 🤝 I’m looking to collaborate on open-source projects in NLP, deep learning, and model deployment  <br>
 🌱 I’m currently working on finetuning LLM for music note generation  <br>
 ⚡ Fun fact: I enjoy pushing LLMs to do things they weren't exactly designed for 🤓
