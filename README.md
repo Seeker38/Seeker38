@@ -17,12 +17,12 @@
 </p>
 
 
-# 💫 About Me:
+<!--# 💫 About Me:
 ## 👋 About Me<br><br>🎓 I’m a graduate in **Data Science**  <br>
 🔭 I’m currently focusing on NLP projects and exploring the capabilities of LLMs  <br>
 🤝 I’m looking to collaborate on open-source projects in NLP, deep learning, and model deployment  <br>
 🌱 I’m currently working on finetuning LLM for music note generation  <br>
-⚡ Fun fact: I enjoy pushing LLMs to do things they weren't exactly designed for 🤓
+⚡ Fun fact: I enjoy pushing LLMs to do things they weren't exactly designed for 🤓-->
 <!--  🤝 I’m looking for help with scaling LLM applications and optimizing inference performance 
 💬 Ask me about transformers, tokenization, fine-tuning models, or cool NLP hacks  <br>
 <br> -->
